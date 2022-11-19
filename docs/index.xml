@@ -8,14 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://bespokeenglish.netlify.app/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install Hugo</title>
-      <link>https://bespokeenglish.netlify.app/docs/install-hugo/</link>
+      <title>Učionica</title>
+      <link>https://bespokeenglish.netlify.app/docs/u%C4%8Dionica/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>https://bespokeenglish.netlify.app/docs/install-hugo/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.
-hugo version </description>
+      <guid>https://bespokeenglish.netlify.app/docs/u%C4%8Dionica/</guid>
+      <description>Direktni metod učenja Metodički najpriznatiji način učenja u svetu. Bazira se na zanimljivoj prezentaciji znanja i insistiranju na konverzaciji u kojoj se spontano uče gramatička pravila i povećava rečnik.</description>
     </item>
     
     <item>
