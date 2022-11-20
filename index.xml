@@ -2,26 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🗽 Bespoke Škola Engleskog Jezika on Hugo Whisper Theme</title>
-    <link>https://bespokeenglish.netlify.app/</link>
+    <link>https://bespoke.rs/</link>
     <description>Recent content in 🗽 Bespoke Škola Engleskog Jezika on Hugo Whisper Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://bespokeenglish.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://bespoke.rs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Učionica</title>
-      <link>https://bespokeenglish.netlify.app/docs/u%C4%8Dionica/</link>
+      <link>https://bespoke.rs/docs/u%C4%8Dionica/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>https://bespokeenglish.netlify.app/docs/u%C4%8Dionica/</guid>
-      <description>Direktni metod učenja Metodički najpriznatiji način učenja u svetu. Bazira se na zanimljivoj prezentaciji znanja i insistiranju na konverzaciji u kojoj se spontano uče gramatička pravila i povećava rečnik.</description>
+      <guid>https://bespoke.rs/docs/u%C4%8Dionica/</guid>
+      <description>Direktni metod učenja Metodički najpriznatiji način učenja u svetu. Bazira se na zanimljivoj prezentaciji znanja i insistiranju na konverzaciji u kojoj se spontano uče gramatička pravila i povećava rečnik.
+Komunikacija sa profesorom Individualni časovi pretpostavljaju mogućnost da učenik i van predviđenog časa stupa u kontakt sa profesorom i dobija sva potrebna objašnjenja za bilo koju nedoumicu. Nastavnik takođe šalje učeniku različite vežbe i video prezentacije kako bi učenik u kontinuitetu učio engleski i van nastave.</description>
     </item>
     
     <item>
       <title>Install Theme</title>
-      <link>https://bespokeenglish.netlify.app/docs/install-theme/</link>
+      <link>https://bespoke.rs/docs/install-theme/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>https://bespokeenglish.netlify.app/docs/install-theme/</guid>
+      <guid>https://bespoke.rs/docs/install-theme/</guid>
       <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
 Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes
 Install with Git cd mynewsite cd themes git clone https://github.com/jugglerx/hugo-whisper-theme.git Install from .zip file You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
@@ -30,30 +31,31 @@ Extract the downloaded .zip inside the themes folder. Rename the extracted folde
     
     <item>
       <title>Configuration</title>
-      <link>https://bespokeenglish.netlify.app/docs/configure/</link>
+      <link>https://bespoke.rs/docs/configure/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>https://bespokeenglish.netlify.app/docs/configure/</guid>
+      <guid>https://bespoke.rs/docs/configure/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Specimen</title>
-      <link>https://bespokeenglish.netlify.app/docs/specimen/</link>
+      <link>https://bespoke.rs/docs/specimen/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>https://bespokeenglish.netlify.app/docs/specimen/</guid>
+      <guid>https://bespoke.rs/docs/specimen/</guid>
       <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem.
 Heading two Aute officia nulla deserunt do deserunt cillum velit magna.</description>
     </item>
     
     <item>
-      <title>Hugo Whisper</title>
-      <link>https://bespokeenglish.netlify.app/docs/example/</link>
+      <title>Lokacija</title>
+      <link>https://bespoke.rs/docs/lokacija/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>https://bespokeenglish.netlify.app/docs/example/</guid>
-      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+      <guid>https://bespoke.rs/docs/lokacija/</guid>
+      <description>📍 Zagrađe 48a, Mirijevo, Beograd
+👉 Pogledajte na Google Mapi</description>
     </item>
     
   </channel>
