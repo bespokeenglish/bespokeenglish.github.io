@@ -18,27 +18,6 @@ Komunikacija sa profesorom Individualni časovi pretpostavljaju mogućnost da u�
     </item>
     
     <item>
-      <title>Install Theme</title>
-      <link>https://bespoke.rs/docs/install-theme/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://bespoke.rs/docs/install-theme/</guid>
-      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
-Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes
-Install with Git cd mynewsite cd themes git clone https://github.com/jugglerx/hugo-whisper-theme.git Install from .zip file You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
-Extract the downloaded .zip inside the themes folder. Rename the extracted folder from hugo-whisper-theme-master -&amp;gt; hugo-whisper-theme.</description>
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://bespoke.rs/docs/configure/</link>
-      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
-      
-      <guid>https://bespoke.rs/docs/configure/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
-    </item>
-    
-    <item>
       <title>Cenovnik</title>
       <link>https://bespoke.rs/docs/cenovnik/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
